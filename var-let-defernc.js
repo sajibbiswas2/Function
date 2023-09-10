@@ -9,7 +9,8 @@ console.log(x);
 
 if (true){
    let y=59;
-   console.log(y);
+   
 }
+console.log(y);
 
 
