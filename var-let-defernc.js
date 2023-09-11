@@ -1,16 +1,21 @@
-if(true){
-    var x=40;
+// if(true){
+//     var x=40;
 
-}
-console.log(x);
+// }
+// console.log(x);
 
 
-//let deference 
+// //let deference 
 
-if (true){
-   let y=59;
+// if (true){
+//    let y=59;
    
-}
-console.log(y);
+// }
+// console.log(y);
 
-
+  const car ={
+       name:"tasla",
+       model:56,
+       price:3999,
+  }
+  console.log(car.name);
